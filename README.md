@@ -1,4 +1,4 @@
-# AffordMed Backend Evaluation - 23Ecb40
+Backend Evaluation 
 
 This repository contains the backend service built for the AffordMed campus hiring evaluation drive.
 
